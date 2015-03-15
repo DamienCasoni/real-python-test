@@ -2,15 +2,32 @@
 mlkj
 === ==lkjhlkj
 
+**c'est moche** 
+
+_pourquoi_ 
+
+**ça c'est du gras bordel**
+
+_et ça de l'itatlique !_
+
+__gras!!__
+
+** _gras italique_ ** 
+
+
 #lmkj 
  ljm 
- *lkj
+ *lkj* 
  
  * Liste
  * Liste again
  
- *lkj 
- Titre
+
+ 
+ `Voici du code`
+ 
+
+ 
  ====
  
  ## Trieh h2
