@@ -1,1 +1,1 @@
-“Hello, world! ThisismyfirstPUSHtoGithub.”
+"I need to find a coloring syntaxic hightlight for markdown in Np++ :/ "
